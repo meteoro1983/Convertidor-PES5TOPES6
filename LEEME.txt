@@ -3,6 +3,8 @@ CONVERTIDOR DE OPTION FILES  WE9 / PES5 / WE9LE  ->  PES6   (PC)
 USO
 1. Arrastra tu option file de WE9 (KONAMI-WIN32WE9UOPT o ...KOPT) sobre Convertidor_WE9_a_PES6.exe,
    o abre el programa y elige el archivo con "Examinar...".
+   En "Option file virgen de PES6" elige un KONAMI-WIN32PES6OPT virgen (el que crea el juego al empezar
+   sin datos editados). No viene incluido: son datos de Konami.
 2. Se crea la carpeta "convertido_PES6" junto a tu archivo, con:
      KONAMI-WIN32PES6OPT     -> el option file de PES6 (con el nombre exacto que espera el juego)
      reporte_jugadores.csv   -> que jugador fue a que hueco y cuales no entraron
@@ -26,7 +28,7 @@ ARCHIVOS QUE PUEDES CAMBIAR (carpeta datos, o desde la ventana)
 - clubes_we9_a_pes6.csv    emparejamiento de clubes (columnas equipo_WE9 y equipo_PES6). Es el que ya revisaste,
                            con los intercambios (Man Blue / Merseyside Red, etc.).
 - peinados_especiales.csv  equivalencias de peinados especiales (peinado_we9, peinado_pes6).
-- base_pes6_virgen.bin     option file virgen de PES6 sobre el que se escribe. Puedes elegir otro en la ventana.
+- base_pes6_virgen.bin     (opcional) tu option file virgen de PES6; si esta, se usa por defecto.
 
 PARA OBTENER EL .EXE PORTABLE
 Doble clic en compilar_exe.bat (necesita Python 3 e internet para bajar PyInstaller). El .exe queda en "dist"
