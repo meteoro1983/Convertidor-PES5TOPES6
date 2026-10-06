@@ -14,7 +14,7 @@ USO
 3. Haz copia de seguridad de tu option file de PES6 y copia el nuevo a la carpeta de saves.
 
 QUE HACE
-- Escribe sobre una BASE de PES6 (datos\base_pes6_virgen.bin, un option file virgen). Tu archivo de WE9 y la
+- Escribe sobre una BASE de PES6: tu option file virgen (o datos\base_pes6_virgen.bin si lo pones). Tu archivo de WE9 y la
   base nunca se modifican.
 - Transfiere jugadores (datos, atributos, habilidades, nacionalidad), plantillas de selecciones, clasicos y
   clubes, con titulares ordenados segun la formacion de PES6.
