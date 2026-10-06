@@ -1,0 +1,45 @@
+CONVERTIDOR DE OPTION FILES  WE9 / PES5 / WE9LE  ->  PES6   (PC)
+
+USO
+1. Arrastra tu option file de WE9 (KONAMI-WIN32WE9UOPT o ...KOPT) sobre Convertidor_WE9_a_PES6.exe,
+   o abre el programa y elige el archivo con "Examinar...".
+2. Se crea la carpeta "convertido_PES6" junto a tu archivo, con:
+     KONAMI-WIN32PES6OPT     -> el option file de PES6 (con el nombre exacto que espera el juego)
+     reporte_jugadores.csv   -> que jugador fue a que hueco y cuales no entraron
+     reporte_equipos.csv     -> que equipo de WE9 fue a que equipo de PES6
+     reporte_apariencia.csv  -> peinado y piel convertidos
+     registro.txt            -> resumen y avisos
+3. Haz copia de seguridad de tu option file de PES6 y copia el nuevo a la carpeta de saves.
+
+QUE HACE
+- Escribe sobre una BASE de PES6 (datos\base_pes6_virgen.bin, un option file virgen). Tu archivo de WE9 y la
+  base nunca se modifican.
+- Transfiere jugadores (datos, atributos, habilidades, nacionalidad), plantillas de selecciones, clasicos y
+  clubes, con titulares ordenados segun la formacion de PES6.
+- Apariencia aproximada: peinado (los especiales por una tabla de equivalencias), piel, complexion y accesorios,
+  con cara generica.
+- Renombra los clubes "Team A..R" de PES6 con el nombre que tenian en WE9.
+- Verifica el resultado antes de escribirlo (checksums, plantillas, ningun byte fuera de lo previsto). Si algo
+  falla, no deja ningun archivo y explica el motivo.
+
+ARCHIVOS QUE PUEDES CAMBIAR (carpeta datos, o desde la ventana)
+- clubes_we9_a_pes6.csv    emparejamiento de clubes (columnas equipo_WE9 y equipo_PES6). Es el que ya revisaste,
+                           con los intercambios (Man Blue / Merseyside Red, etc.).
+- peinados_especiales.csv  equivalencias de peinados especiales (peinado_we9, peinado_pes6).
+- base_pes6_virgen.bin     option file virgen de PES6 sobre el que se escribe. Puedes elegir otro en la ventana.
+
+PARA OBTENER EL .EXE PORTABLE
+Doble clic en compilar_exe.bat (necesita Python 3 e internet para bajar PyInstaller). El .exe queda en "dist"
+y no necesita instalacion. Algunos antivirus marcan los .exe hechos con PyInstaller; si pasa, es un falso
+positivo. Tambien funciona sin compilar: python we9_a_pes6.py
+
+PRUEBAS
+python tests\test_conversion.py RUTA\KONAMI-WIN32WE9UOPT
+
+LIMITES CONOCIDOS
+- Los jugadores de WE9 que no estan en ninguna plantilla emparejada y no caben en PES6 no se transfieren
+  (quedan listados en reporte_jugadores.csv).
+- Selecciones de WE9 sin equivalente en PES6 (Marruecos, Senegal, Venezuela, China) se omiten.
+- La apariencia es una aproximacion; cara real y rostros especiales no se trasladan.
+- No se copian escudos, camisetas, formaciones ni nombres de clubes (salvo Team A..R).
+- Si el option file de WE9 es muy distinto del tuyo, revisa los reportes antes de usar el resultado.

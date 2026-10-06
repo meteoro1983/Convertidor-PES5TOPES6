@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+# Datos de Konami: NO se distribuyen. Cada usuario usa su propio option file virgen de PES6.
+datos/base_pes6_virgen.bin
+KONAMI-WIN32*
+convertido_PES6/

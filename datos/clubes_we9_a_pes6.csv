@@ -1,0 +1,139 @@
+﻿liga,club_WE9,equipo_WE9,nombre_WE9,club_PES6,equipo_PES6,nombre_PES6,criterio
+Premier,0,74,Arsenal,0,73,Arsenal,mismo nombre
+Premier,1,75,Aston Villa,1,74,West Midlands Village,por posicion dentro de la liga
+Premier,2,76,West Midlands City,5,78,London FC,por posicion dentro de la liga
+Premier,3,77,Lancashire,2,75,Lancashire,mismo nombre
+Premier,4,78,Middlebrook,3,76,Middlebrook,mismo nombre
+Premier,5,79,South East London Reds,4,77,South East London Reds,mismo nombre
+Premier,6,80,Chelsea,6,79,Merseyside Blue,por posicion dentro de la liga
+Premier,7,81,Everton,9,82,Man Blue,intercambio solicitado
+Premier,8,82,West London White,7,80,West London White,mismo nombre
+Premier,9,83,Liverpool,8,81,Merseyside Red,intercambio solicitado
+Premier,10,84,Super Manchester City,11,84,Teesside,por posicion dentro de la liga
+Premier,11,85,Manchester United,10,83,Manchester United,mismo nombre
+Premier,12,86,Teeside,12,85,Tyneside,por posicion dentro de la liga
+Premier,13,87,Newcastle United,13,86,Pompy,por posicion dentro de la liga
+Premier,14,88,Portsmouth,14,87,Berkshire Blues,por posicion dentro de la liga
+Premier,15,89,Wearside,15,88,South Yorkshire,por posicion dentro de la liga
+Premier,16,90,Tottenham Hotspur,16,89,North East London,por posicion dentro de la liga
+Premier,17,91,West Midlands Stripes,17,90,Hertfordshire,por posicion dentro de la liga
+Premier,18,92,West Ham United,18,91,East London,por posicion dentro de la liga
+Premier,19,93,Lancashire Athletic,19,92,Lancashire Athletic,mismo nombre
+Ligue 1,20,94,Corse Sud,20,93,AJ Auxerre,por posicion dentro de la liga
+Ligue 1,21,95,Monaco G.P,21,94,Girondins de Bordeaux,por posicion dentro de la liga
+Ligue 1,22,96,Bourgogne,22,95,Le Mans UC 72,por posicion dentro de la liga
+Ligue 1,23,97,Aquitaine,23,96,RC Lens,por posicion dentro de la liga
+Ligue 1,24,98,Sarthe,24,97,Lille OSC,por posicion dentro de la liga
+Ligue 1,25,99,Paco Dogs,25,98,FC Lorient,por posicion dentro de la liga
+Ligue 1,26,100,Olympique Lyonnais,26,99,Olympique Lyonnais,mismo nombre
+Ligue 1,27,101,Moselle,31,104,OGC Nice,intercambio solicitado
+Ligue 1,28,102,Meurthe-et-Moselle,28,101,AS Monaco,por posicion dentro de la liga
+Ligue 1,29,103,Loire Océan,29,102,AS Nancy-Lorraine,por posicion dentro de la liga
+Ligue 1,30,104,Alpes Maritimes,30,103,FC Nantes-Atlantique,por posicion dentro de la liga
+Ligue 1,31,105,Bouches du Rhone,27,100,Olympique de Marseille,intercambio solicitado
+Ligue 1,32,106,Ile De France,32,105,Paris Saint-Germain,por posicion dentro de la liga
+Ligue 1,33,107,Nord,33,106,Stade Rennais FC,por posicion dentro de la liga
+Ligue 1,34,108,Nagoya Grampus,34,107,AS Saint-Étienne,por posicion dentro de la liga
+Ligue 1,35,109,Africa All-Star,35,108,CS Sedan,por posicion dentro de la liga
+Ligue 1,36,110,Shimizu S-Pulse,36,109,FC Sochaux,por posicion dentro de la liga
+Ligue 1,37,111,Alsace,37,110,Toulouse FC,por posicion dentro de la liga
+Ligue 1,38,112,Garonne,38,111,ES Troyes AC,por posicion dentro de la liga
+Ligue 1,39,113,Aube,39,112,Valenciennes FC,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),40,114,Domstadt,122,195,Team A,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),41,115,Alm,123,196,Team B,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),42,116,Rhein,128,201,Team G,intercambio solicitado
+Bundesliga (sin liga en PES6),43,117,FC.Bayern Munche,125,198,Team D,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),44,118,Borussia,126,199,Team E,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),45,119,Fohlen,127,200,Team F,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),46,120,Stahlstadt,124,197,Team C,intercambio solicitado
+Bundesliga (sin liga en PES6),47,121,Rhein-Main,129,202,Team H,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),48,122,Galaxi River,130,203,Team I,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),49,123,Niedersachsen,131,204,Team J,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),50,124,Hauptstadt,132,205,Team K,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),51,125,Pfalz,133,206,Team L,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),52,126,Karneval,134,207,Team M,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),53,127,Franken,135,208,Team N,por posicion dentro de la liga
+Serie A,54,128,Ruhr,46,119,Fiorentina,intercambio solicitado
+Bundesliga (sin liga en PES6),55,129,Neckar,137,210,Team P,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),56,130,Wolfsburg,138,211,Team Q,por posicion dentro de la liga
+Bundesliga (sin liga en PES6),57,131,WER,139,212,Team R,por posicion dentro de la liga
+Serie A,58,132,A.C. Milan,51,124,A.C. Milan,mismo nombre
+Serie A,59,133,A.S. Roma,55,128,A.S. Roma,mismo nombre
+Serie A,60,134,Ascoli,40,113,Ascoli,mismo nombre
+Serie A,61,135,Teste Di Moro,41,114,Atalanta,por posicion dentro de la liga
+Serie A,62,136,Chievo Verona,44,117,Chievo Verona,mismo nombre
+Serie A,63,137,Empoli,45,118,Empoli,mismo nombre
+Bundesliga (sin liga en PES6),64,138,Fiorentina,136,209,Team O,intercambio solicitado
+Serie A,65,139,Inter,47,120,Inter,mismo nombre
+Serie A,66,140,Juventus,42,115,Cagliari,por posicion dentro de la liga
+Serie A,67,141,Lazio,48,121,Lazio,mismo nombre
+Serie A,68,142,Lecce,43,116,Catania,por posicion dentro de la liga
+Serie A,69,143,Livorno,49,122,Livorno,mismo nombre
+Serie A,70,144,Messina,50,123,Messina,mismo nombre
+Serie A,71,145,Palermo,52,125,Palermo,mismo nombre
+Serie A,72,146,Parma,53,126,Parma,mismo nombre
+Serie A,73,147,Reggina,54,127,Reggina,mismo nombre
+Serie A,74,148,Sampdoria,56,129,Sampdoria,mismo nombre
+Serie A,75,149,Siena,57,130,Siena,mismo nombre
+Serie A,76,150,Treviso,58,131,Torino,por posicion dentro de la liga
+Serie A,77,151,Udinese,59,132,Udinese,mismo nombre
+Eredivisie,78,152,ADO Den Haag,60,133,ADO Den Haag,mismo nombre
+Eredivisie,79,153,Ajax ,61,134,Ajax,mismo nombre
+Eredivisie,80,154,AZ,62,135,AZ,mismo nombre
+Eredivisie,81,155,FC Groningen,65,138,FC Groningen,mismo nombre
+Eredivisie,82,156,FC Twente,74,147,FC Twente,mismo nombre
+Eredivisie,83,157,FC Utrecht,75,148,FC Utrecht,mismo nombre
+Eredivisie,84,158,Feyenoord,64,137,Feyenoord,mismo nombre
+Eredivisie,85,159,Heracles Almelo,67,140,Heracles Almelo,mismo nombre
+Eredivisie,86,160,NAC Breda,68,141,NAC Breda,mismo nombre
+Eredivisie,87,161,NEC Nijmegen,69,142,N.E.C. Nijmegen,mismo nombre
+Otros,88,162,PSV Eindhoven,107,180,Benfica,intercambio solicitado
+Eredivisie,89,163,RBC Roosendaal,63,136,SBV Excelsior,por posicion dentro de la liga
+Eredivisie,90,164,RKC Waalwijk,71,144,RKC Waalwijk,mismo nombre
+Eredivisie,91,165,Roda JC,72,145,Roda JC,mismo nombre
+Eredivisie,92,166,SC Heerenveen,66,139,SC Heerenveen,mismo nombre
+Eredivisie,93,167,Sparta Rotterdam,73,146,Sparta Rotterdam,mismo nombre
+Eredivisie,94,168,Vitesse,76,149,Vitesse,mismo nombre
+Eredivisie,95,169,Willem II,77,150,Willem II,mismo nombre
+Liga,96,170,Alaves,81,154,R.C. Celta,por posicion dentro de la liga
+Liga,97,171,At. Osasuna,91,164,C.A. Osasuna,intercambio solicitado
+Liga,98,172,Athletic Club,78,151,Athletic Club,mismo nombre
+Liga,99,173,C. Atlético Madrid,88,161,C. Atlético Madrid,mismo nombre
+Liga,100,174,Cadiz,85,158,C. Gimnastic,por posicion dentro de la liga
+Liga,101,175,Celta,86,159,R.C. Recreativo de Huelva,por posicion dentro de la liga
+Liga,102,176,F.C. Barcelona,79,152,F.C. Barcelona,mismo nombre
+Liga,103,177,Getafe C.F.,84,157,Getafe C.F.,mismo nombre
+Liga,104,178,Málaga C.F.,87,160,Levante U.D.,por posicion dentro de la liga
+Liga,105,179,R. Betis,80,153,R. Betis,mismo nombre
+Liga,106,180,R. Madrid,89,162,R. Madrid,mismo nombre
+Liga,107,181,R. Racing C.,92,165,R. Racing C.,mismo nombre
+Liga,108,182,R. Sociedad,93,166,R. Sociedad,mismo nombre
+Liga,109,183,R. Zaragoza,97,170,R. Zaragoza,mismo nombre
+Liga,110,184,R.C. Deportivo,82,155,R.C. Deportivo la Coruña,intercambio solicitado
+Liga,111,185,R.C.D. Espanyol,83,156,R.C.D. Espanyol,mismo nombre
+Liga,112,186,R.C.D. Mallorca,90,163,R.C.D. Mallorca,mismo nombre
+Liga,113,187,Sevilla F.C.,94,167,Sevilla F.C.,mismo nombre
+Liga,114,188,Valencia C.F.,95,168,Valencia C.F.,mismo nombre
+Liga,115,189,Villarreal C.F.,96,169,Villarreal C.F.,mismo nombre
+Otros,116,190,Lisbonera,100,173,AC Czech,por posicion dentro de la liga
+Otros,117,191,Liverpool Youth,101,174,F.C. Copenhagen,por posicion dentro de la liga
+Otros,118,192,Celtic,110,183,Celtic,mismo nombre
+Otros,119,193,Djurgardens IF,112,185,Djurgardens IF,mismo nombre
+Otros,120,194,Dynamo Kiev,116,189,Dynamo Kiev,mismo nombre
+Otros,121,195,FC Belgium,99,172,FC Belgium,mismo nombre
+Otros,122,196,FC Kopenhagen,102,175,Bayern München,por posicion dentro de la liga
+Otros,123,197,FC Porto,108,181,FC Porto,mismo nombre
+Otros,124,198,Constanti,114,187,Constanti,mismo nombre
+Otros,125,199,Galatasaray,115,188,Galatasaray,mismo nombre
+Otros,126,200,Russia Rail FC,103,176,Olympiacos Piraeus,por posicion dentro de la liga
+Otros,127,201,Peloponnisos,105,178,Juventus,intercambio solicitado
+Otros,128,202,AEK Athenas,104,177,Athenakos FC,intercambio solicitado
+Otros,129,203,Rangers,111,184,Rangers,mismo nombre
+Otros,130,204,Rosenborg BK,106,179,Rosenborg BK,mismo nombre
+Otros,131,205,Bruxelles,98,171,Bruxelles,mismo nombre
+Eredivisie,132,206,PSV Fury,70,143,PSV Eindhoven,intercambio solicitado
+Otros,133,207,ACZ,109,182,Sporting Lisbon,por posicion dentro de la liga
+Otros,134,208,Esportiva,113,186,FC Bosphorus,por posicion dentro de la liga
+Otros,135,209,HUERFANDAD,117,190,Patagonia,por posicion dentro de la liga
+Otros,136,210,Perros Falopa,118,191,Pampas,por posicion dentro de la liga
+Otros,137,211,ACIDO TEAM,119,192,Caopolo,por posicion dentro de la liga
